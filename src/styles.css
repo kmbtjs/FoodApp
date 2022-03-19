@@ -16,6 +16,6 @@
     @apply rounded-full uppercase font-bold cursor-pointer tracking-wider;
 }
 
-.nav {
-    @apply px-4 flex justify-end pb-1;
+.navstyle {
+    @apply px-4 flex justify-end pb-1 hover:font-bold;
 }
